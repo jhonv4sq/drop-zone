@@ -54,3 +54,17 @@ hr.line{
 button:hover .hover{
   fill:#64748b
 }
+
+.first-card{
+  transition: all 400ms ease;
+}
+.first-card div{
+  transition: all 400ms ease;
+}
+
+.first-card:hover{
+  transform: translateY(-3%);
+}
+.first-card:hover div{
+  transform: scale(1.1);
+}
