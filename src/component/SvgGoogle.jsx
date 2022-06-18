@@ -1,6 +1,6 @@
 import * as React from "react"
 
-const Google = (props) => (
+const SvgGoogle = (props) => (
   <svg
     width={26}
     height={26}
@@ -14,4 +14,4 @@ const Google = (props) => (
   </svg>
 )
 
-export default Google
+export default SvgGoogle

@@ -1,11 +1,11 @@
 import React from 'react'
-import Google from './Google'
+import SvgGoogle from './SvgGoogle'
 
 export const ButtonGoogle = () => {
   return (
     <>
         <button type='submit' className='relative text-white hover:text-slate-500 hover:border-slate-500 flex flex-row justify-center items-center w-full lg:w-[389px] h-[45px] border-2 rounded my-2'>
-            <Google className='absolute left-[15px] hover' />
+            <SvgGoogle className='absolute left-[15px] hover' />
             <p className='font-montserrat text-[16px] font-[500]'>
                 Login con Google
             </p>
