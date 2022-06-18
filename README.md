@@ -1,6 +1,6 @@
 # Drop Zone
 #### Drop web App for uploading files to your Google Drive
-[![screenshot1.jpg](https://i.postimg.cc/rp6vdrvq/screenshot1.jpg)](https://postimg.cc/cvmD2rxz)
+[![screenshot1.jpg](https://i.postimg.cc/rp6vdrvq/screenshot1.jpg)](https://jhonv4sq.github.io/drop-zone/)
 
 ------------
 
