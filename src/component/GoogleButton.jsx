@@ -8,7 +8,7 @@ const GoogleButton = () => {
         console.log(response.profileObj);
     }
   return (
-    <div>
+    <div className='w-full'>
         <GoogleLogin
             clientId="827149715061-if4f5h66aqaj681cjvsbb8ddda8o2uqu.apps.googleusercontent.com"
             onSuccess={responseGoogle}
