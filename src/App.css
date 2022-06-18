@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.background{
+  background-image: url('./svg/background.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: absolute;
+  background-position: center;
+}
+hr.line{
+  border-radius: 0.25rem;
+  border-top: 4px solid #39424E;
+  width: 100%;
+}
+.hover{
+  fill: white;
+}
+button:hover .hover{
+  fill:#64748b
+}
