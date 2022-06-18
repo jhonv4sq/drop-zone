@@ -17,7 +17,7 @@ export const ButtonGoogle = () => {
 export const ButtonGreen = () => {
   return (
     <>
-        <button type='submit' className='relative flex flex-row justify-center items-center w-full  h-[45px] border-2 rounded border-[#569B51] bg-[#569B51] hover:bg-[#437c3f] mt-8 lg:mt-0'>
+        <button className='relative flex flex-row justify-center items-center w-full  h-[45px] border-2 rounded border-[#569B51] bg-[#569B51] hover:bg-[#437c3f] mt-8 lg:mt-0'>
             <p className='font-montserrat text-white text-[16px] font-[500]'>
                 Subir Archivo
             </p>

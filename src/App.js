@@ -1,6 +1,7 @@
 import './App.css';
-import {ButtonGoogle, ButtonGreen} from './component/Button';
+import {ButtonGreen} from './component/Button';
 import Screen from './component/Screen';
+import GoogleButton from './component/GoogleButton';
 
 function App() {
   return (
@@ -21,7 +22,7 @@ function App() {
               Para subir tus archivos de forma simple a drive, puedes hacer LogIn a travé de Google.
             </p>
             <hr className='line mb-5'></hr>
-            <ButtonGoogle />
+            <GoogleButton />
           </div>
 
         </div>
