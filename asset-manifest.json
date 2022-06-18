@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/drop-zone/static/css/main.a74a10d4.css",
+    "main.js": "/drop-zone/static/js/main.9b79c789.js",
+    "static/js/787.23064d6b.chunk.js": "/drop-zone/static/js/787.23064d6b.chunk.js",
+    "static/media/background.svg": "/drop-zone/static/media/background.4de22d75b891ea306530.svg",
+    "index.html": "/drop-zone/index.html",
+    "main.a74a10d4.css.map": "/drop-zone/static/css/main.a74a10d4.css.map",
+    "main.9b79c789.js.map": "/drop-zone/static/js/main.9b79c789.js.map",
+    "787.23064d6b.chunk.js.map": "/drop-zone/static/js/787.23064d6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a74a10d4.css",
+    "static/js/main.9b79c789.js"
+  ]
+}
