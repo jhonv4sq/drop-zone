@@ -1,7 +1,8 @@
 import './App.css';
 import {ButtonGreen} from './component/Button';
-import Screen from './component/Screen';
+import DropZone from './component/DropZone';
 import GoogleButton from './component/GoogleButton';
+
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
         <div className='container h-screen flex flex-col-reverse lg:flex-row w-10/12 lg:full justify-evenly'>
 
           <div className='lg:h-screen flex flex-col justify-center items-center justify-evenly'>
-            <Screen slot='arrastra tu archivo aquí' />
+            <DropZone slot='arrastra tu archivo aquí' />
             <ButtonGreen />
           </div>
 
